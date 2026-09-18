@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lista zadań</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <main class="karta">
+    <h1>Moja lista zadań</h1>
+
+    <!-- Formularz do dodawania nowego zadania -->
+    <form id="formularz">
+      <input
+        type="text"
+        id="pole-tekstowe"
+        placeholder="Co masz do zrobienia?"
+        autocomplete="off"
+        required
+      />
+      <button type="submit">Dodaj</button>
+    </form>
+
+    <!-- Tutaj JavaScript będzie dopisywał kolejne zadania -->
+    <ul id="lista-zadan"></ul>
+
+    <p id="pusta-lista" class="pusta-lista">Brak zadań — dodaj pierwsze powyżej.</p>
+
+    <footer>
+      <span id="licznik">0 zadań</span>
+      <button id="wyczysc-ukonczone" type="button">Usuń ukończone</button>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
