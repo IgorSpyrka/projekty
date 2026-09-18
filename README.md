@@ -24,5 +24,4 @@ uczyć, a nie tylko go uruchomić.
 
 To celowo prosty start. Kolejne, bardziej rozbudowane projekty (np. makra
 VBA, dashboard z wykresami, aplikacja w React, narzędzia związane z
-bezpieczeństwem) można dodawać w tych samych folderach — daj znać, gdy
-będziesz gotów na kolejny poziom.
+bezpieczeństwem) mogą trafić do tych samych folderów w miarę rozwoju.

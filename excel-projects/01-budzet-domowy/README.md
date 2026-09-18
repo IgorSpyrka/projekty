@@ -41,10 +41,3 @@ w pliku "nie ma polskich formuł".
 3. Spróbuj dodać kolumnę "% budżetu" przy wydatkach, np.
    `=C11/$C$18` (ile % sumy wydatków stanowi czynsz, komórka C11) i sformatuj
    ją jako procent.
-
-## Jak zrobiony jest ten plik
-
-Plik wygenerowany jest skryptem Pythona (`openpyxl`), a nie ręcznie klikany
-w Excelu — dzięki temu jest w pełni powtarzalny. Jeśli chcesz zobaczyć, jak
-kod tworzy formuły, formatowanie i kolory, zapytaj — mogę pokazać skrypt
-źródłowy krok po kroku.
