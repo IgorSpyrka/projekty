@@ -91,10 +91,3 @@ formułami, część trzeba wpisać samemu.
    jednej długiej tabeli (data w kolumnie) i formuł typu `SUMIFS` z
    warunkiem na datę — patrz projekt `excel-projects/02-analiza-sprzedazy`
    dla podstaw `SUMIF`.
-
-## Jak zrobiony jest ten plik
-
-Wygenerowany skryptem Pythona (`openpyxl`) — ręczne stworzenie 33 arkuszy z
-formułami byłoby żmudne, więc kod buduje je w pętli. Mogę pokazać skrypt
-źródłowy, jeśli interesuje Cię, jak wygenerować dziesiątki podobnych do
-siebie arkuszy naraz.

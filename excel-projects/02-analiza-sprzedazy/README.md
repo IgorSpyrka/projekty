@@ -52,8 +52,3 @@ danych, a zmienia się tylko `B6` → `B7` → `B8`.
 3. Spróbuj policzyć **udział procentowy** każdej kategorii w sprzedaży
    ogółem — nowa kolumna z formułą `=C6/$C$9` (gdzie C9 to wiersz RAZEM),
    sformatowana jako procent.
-
-## Jak zrobiony jest ten plik
-
-Wygenerowany skryptem Pythona (`openpyxl`) — mogę pokazać kod źródłowy, jeśli
-chcesz zobaczyć, jak dokładnie budowane są formuły i formatowanie.

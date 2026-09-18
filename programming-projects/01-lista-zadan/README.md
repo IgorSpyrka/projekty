@@ -59,6 +59,6 @@ dobra praktyka — ułatwia znalezienie tego, czego się szuka.
    dodaniu.
 3. Spróbuj dodać nową funkcję, np. licznik znaków w polu tekstowym, albo
    zmień kolory w `style.css`.
-4. Jeśli chcesz zobaczyć, jak to samo wygląda w React (gdzie `rysujListe()`
-   dzieje się automatycznie za kulisami) — daj znać, mogę przygotować drugą
-   wersję do porównania.
+4. Naturalny następny krok po zrozumieniu tego wzorca "od ręki" to zobaczenie,
+   jak ten sam mechanizm (`rysujListe()`) wygląda w React — tam framework
+   robi to za kulisami automatycznie.
