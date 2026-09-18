@@ -1,4 +1,4 @@
-# mr.robot — portfolio projektów
+# Projekty — portfolio
 
 Zbiór małych, prostych projektów do nauki — po jednym z Excela i po jednym
 programistycznym na start. Każdy projekt ma własny `README.md` z
@@ -11,6 +11,7 @@ uczyć, a nie tylko go uruchomić.
 |---|---|
 | [`excel-projects/01-budzet-domowy`](excel-projects/01-budzet-domowy) | Podstawy arkusza: `SUM`, prosty bilans przychody − wydatki |
 | [`excel-projects/02-analiza-sprzedazy`](excel-projects/02-analiza-sprzedazy) | Sumowanie z warunkiem: `SUMIF` / `SUMA.JEŻELI`, `COUNTIF` |
+| [`excel-projects/03-raport-zadan-zespolu`](excel-projects/03-raport-zadan-zespolu) | Formuły na wielu arkuszach naraz (odwołania między arkuszami), `IFERROR` |
 
 ## Projekty programistyczne
 
